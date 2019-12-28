@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# easy_logging
+AbnormalLogConfigInfo.txt
+*.log
+.idea
+
+# result
+result/human_*
+result_with_adrenaline/human_*
